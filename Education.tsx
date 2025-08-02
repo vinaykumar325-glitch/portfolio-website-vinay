@@ -6,7 +6,7 @@ const EducationSection: React.FC = () => {
   const education: Education[] = [
     {
       id: '1',
-      degree: 'B.Tech in Computer Science',
+      degree: 'B.Tech in Mechanical Engineering',
       institution: 'Gates Institute of Technology',
       period: '2021–2024',
       cgpa: '7.6'
